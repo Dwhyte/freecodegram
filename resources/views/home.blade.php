@@ -8,7 +8,7 @@
                  src="https://instagram.fmia1-1.fna.fbcdn.net/vp/a46bc6c1519233ea56df9cd324659cb4/5DDBFE38/t51.2885-19/s150x150/22709172_932712323559405_7810049005848625152_n.jpg?_nc_ht=instagram.fmia1-1.fna.fbcdn.net">
         </div>
         <div class="col-9 pt-5">
-            <div><h1>freecodegram</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong> posts</div>
                 <div class="pr-5"><strong>23k</strong> followers</div>
